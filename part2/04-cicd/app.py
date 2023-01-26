@@ -18,7 +18,7 @@ root_password = 'password'
 
 
 def main():
-    st.title("Mask Classification Model - Github Docker Deploy T4072")
+    st.title("Mask Classification Model - Github Docker Deploy T4072 second")
 
     with open("config.yaml") as f:
         config = yaml.load(f, Loader=yaml.FullLoader)
